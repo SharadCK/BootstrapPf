@@ -1,5 +1,7 @@
 * {
-	font-family: 'Droid Serif', serif;
+	font-family: 'Pacifico', serif;
+	font-family: 'Satisfy', cursive;
+	font-size: 20px;
 }
 
 .portfolio h3 {
@@ -64,4 +66,8 @@
 
 body {
 	background-image: url(images/tex2res5_@2X.png);
+}
+.img-responsive {
+	margin:10px;
+	font-family: 'Pacifico', cursive;
 }
